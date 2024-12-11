@@ -27,13 +27,6 @@ Learn how to interpret the results to determine which model is most effective in
 5. Model Fine-tuning
 Fine-tune the hyperparameters of the models to improve their accuracy, precision, and recall.
 Use techniques like Grid Search or Random Search for optimal parameter selection.
-Project Goals
-By the end of this project, you will be able to:
-
-Build a fraud detection system using Python and scikit-learn.
-Apply and compare multiple machine learning algorithms.
-Effectively evaluate and tune models for improved performance.
-Gain hands-on experience in tackling real-world problems such as imbalanced datasets and model evaluation.
 Tools and Libraries
 Python: The primary programming language used in this project.
 scikit-learn: A powerful library for machine learning, providing tools for model building, evaluation, and tuning.
